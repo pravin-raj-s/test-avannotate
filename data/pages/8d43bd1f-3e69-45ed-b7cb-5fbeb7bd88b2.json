@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-01-17T20:52:49.345Z",
+  "created_by": "pravin-raj-s",
+  "title": "Borom Sarret",
+  "slug": "borom-sarret",
+  "updated_at": "2025-01-17T20:52:49.345Z",
+  "updated_by": "pravin-raj-s",
+  "parent": "b0696048-400e-44cb-a638-ec05900500d6",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "c3c4a9c3-fe91-45a4-9806-d85f2d8fe6c8"
+  }
+}
